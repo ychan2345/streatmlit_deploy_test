@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 altair==4.1.0
 argon2-cffi==20.1.0
 astor==0.8.1
@@ -164,4 +163,3 @@ webencodings==0.5.1
 widgetsnbextension==3.5.1
 wincertstore==0.2
 zipp==3.4.0
->>>>>>> fa635db16cf15fb32e907e4e98f52e9f0d44913c

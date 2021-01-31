@@ -8,7 +8,7 @@ def main():
 
 	st.title("A test of the streamlit application")
 
-	st.subheader("The app is working")
+	st.subheader("Streamlit app works")
 
 
 if __name__ == '__main__':
